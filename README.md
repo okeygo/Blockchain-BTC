@@ -8,8 +8,8 @@ Backup till block 756057
 // Sha256 - Files
 //
 
---- /chainstate/  cb816c9a0068c805eab999e109b78a5d89a9f9008c612b010738b8f74f72e1df    chainstate756057.tar.gz
---- /blocks/                                                                          blocks756057.tar.gz
+/chainstate/  cb816c9a0068c805eab999e109b78a5d89a9f9008c612b010738b8f74f72e1df    chainstate756057.tar.gz
+/blocks/                                                                          blocks756057.tar.gz
 
 # This backup was made September 26th, 2022 and is available upon request 
 # by providing user and ip to proceed using the linux command 'scp'
